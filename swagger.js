@@ -10,7 +10,7 @@ const options = {
             description: 'This is the API documentation for SlimMom backend',
             contact: {
                 name: 'Adina Gherghisan',
-                url: 'https://github.com/adinagherghisan',
+                url: 'https://adinagherghisan.github.io/slimmom-project-frontend/',
             },
         },
         servers: [
